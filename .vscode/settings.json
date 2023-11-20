@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.rmd": "markdown",
+        "*.tcc": "cpp",
+        "bitset": "cpp",
+        "random": "cpp",
+        "valarray": "cpp",
+        "iostream": "cpp"
+    }
+}
